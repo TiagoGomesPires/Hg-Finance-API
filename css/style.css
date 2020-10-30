@@ -1,0 +1,43 @@
+body{
+    height: 100%;
+    background-image: url('../imagens/stonkis.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+#tituloCotacao {
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Turret Road', cursive;
+    color: #C5B83C; 
+}
+
+p{
+    font-size: 26px;
+    font-family: 'Fredoka One';
+}
+
+aside{
+    width: 50%;
+    float: left;
+    position: relative;
+    left: 48vw;
+    bottom: 7vw;
+    border-style: solid;
+}
+
+#nome_moeda{
+    color:gray ;
+}
+
+#dolar{
+    color:green
+}
+
+
